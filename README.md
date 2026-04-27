@@ -50,7 +50,7 @@ Ensure your ESP32 board has I2C support and that `Wire.begin()` is called in `se
 
 void setup() {
     Wire.begin();
-    Wire.setClock(400000);  // Recommended I2C clock speed
+    Wire.setClock(100000);  // Recommended I2C clock speed
 
     if (!InkaLogic_Init(DEVICE_INKALOGIC_PRO)) {  // or DEVICE_INKALOGIC_BASIC
         // Handle initialization failure
