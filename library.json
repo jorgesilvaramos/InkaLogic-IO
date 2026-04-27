@@ -1,0 +1,36 @@
+{
+  "name": "InkaLogic IO",
+  "version": "1.0.0",
+  "description": "Unified HAL library for InkaLogic IO expansion boards supporting digital inputs and outputs with polling and interrupt driven operation on ESP32.",
+  "keywords": [
+    "esp32",
+    "arduino",
+    "hal",
+    "gpio",
+    "io-expander",
+    "digital-input",
+    "digital-output",
+    "interrupt",
+    "i2c",
+    "industrial"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgesilvaramos/InkaLogic-IO.git"
+  },
+  "authors": [
+    {
+      "name": "Jorge Silva",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jorgesilvaramos/InkaLogic-IO",
+  "dependencies": [],
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": [
+    "esp32"
+  ]
+}
