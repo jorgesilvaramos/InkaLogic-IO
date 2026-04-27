@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For InkaLogic IO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+inka_device_t	KEYWORD1
+inka_input_t	KEYWORD1
+inka_output_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+InkaLogic_Init	KEYWORD2
+InkaLogic_Get_Device	KEYWORD2
+InkaLogic_Attach_Interrupt	KEYWORD2
+InkaLogic_Read	KEYWORD2
+InkaLogic_Write	KEYWORD2
+InkaLogic_Toggle	KEYWORD2
+InkaLogic_Scan	KEYWORD2
+InkaLogic_Scan_ISR	KEYWORD2
+InkaLogic_Rising_Edge	KEYWORD2
+InkaLogic_Falling_Edge	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DEVICE_INKALOGIC_BASIC	LITERAL1
+DEVICE_INKALOGIC_PRO	LITERAL1
+INKA_IN0	LITERAL1
+INKA_IN1	LITERAL1
+INKA_IN2	LITERAL1
+INKA_IN3	LITERAL1
+INKA_IN4	LITERAL1
+INKA_IN5	LITERAL1
+INKA_IN6	LITERAL1
+INKA_IN7	LITERAL1
+INKA_IN8	LITERAL1
+INKA_IN9	LITERAL1
+INKA_OUT0	LITERAL1
+INKA_OUT1	LITERAL1
+INKA_OUT2	LITERAL1
+INKA_OUT3	LITERAL1
+INKA_OUT4	LITERAL1
+INKA_OUT5	LITERAL1
