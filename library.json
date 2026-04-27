@@ -1,5 +1,5 @@
 {
-  "name": "InkaLogic IO",
+  "name": "InkaLogic-IO",
   "version": "1.0.0",
   "description": "Unified HAL library for InkaLogic IO expansion boards supporting digital inputs and outputs with polling and interrupt driven operation on ESP32.",
   "keywords": [
