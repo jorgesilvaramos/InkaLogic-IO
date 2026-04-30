@@ -1,6 +1,6 @@
 {
-  "name": "MMJ_InkaLogic_IO",
-  "version": "1.0.1",
+  "name": "InkaLogic_IO",
+  "version": "1.0.2",
   "description": "Unified HAL library for InkaLogic IO expansion boards supporting digital inputs and outputs with polling and interrupt driven operation on ESP32.",
   "keywords": [
     "esp32",
